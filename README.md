@@ -18,8 +18,8 @@ Este projeto utiliza o `json-server` para fornecer uma API REST falsa com um con
 ### Endpoints
 | Método | Endpoint       | Descrição                                |
 | ------ | -------------- | ---------------------------------------- |
-| GET    | /produtos      | Retorna todos os produtos                |
-| GET    | /produtos/{id} | Retorna um produto específico pelo `id`  |
-| POST   | /produtos      | Adiciona um novo produto                 |
-| PUT    | /produtos/{id} | Atualiza um produto específico pelo `id` |
-| DELETE | /produtos/{id} | Remove um produto específico pelo `id`   |
+| GET    | /recurso      | Listagem               |
+| GET    | /recurso/{id} | Retorna uma informação específica pelo `id`  |
+| POST   | /recurso      | Adiciona uma nova informação                 |
+| PUT    | /recurso/{id} | Atualiza uma informação específica pelo `id` |
+| DELETE | /recurso/{id} | Remove uma informação específica pelo `id`   |
