@@ -1,3 +1,25 @@
 {
-    "postagens": []
+    "postagens": [
+        {
+            "id": 1,
+            "level": "Bronze",
+            "profissao": "Estudante",
+            "nome": "Pedro da Silva",
+            "avatar": "../assets/img/avatar.svg",
+            "data": "18/06/2024 15:25",
+            "conteudo": "teste",
+            "comentarios": [
+                {
+                    "level": "Prata",
+                    "profissao": "Bancária",
+                    "nome": "Letícia de Barros Motta",
+                    "avatar": "../assets/img/avatar2.svg",
+                    "id": 2,
+                    "conteudo": "teste 1",
+                    "data": "18/06/2024 15:36"
+                }
+            ],
+            "curtida": false
+        }
+    ]
 }
