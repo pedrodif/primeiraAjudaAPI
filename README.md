@@ -11,8 +11,9 @@ Passo a passo para incluir informações na API:
 2. Clonar o repositório.
 3. Instalar o json-server.
 4. Incluir na pasta "data", no arquivo db.json o recurso desejado. Obs: Siga o exemplo do recurso "postagens".
-5. O endpoint está informado na seção "about" deste repo.
-6. Utilizar o endpoint/recursoDesejado.
+5. A atualização do projeto será automática após o seu commit.
+6. O endpoint está informado na seção "about" deste repo.
+7. Utilizar o endpoint/recursoDesejado.
 
 # Endpoints
 | Método | Endpoint       | Descrição                                |
