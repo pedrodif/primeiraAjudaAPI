@@ -4,7 +4,7 @@ Este projeto utiliza o `json-server` para fornecer uma API REST falsa com um con
 
 ### Pré-requisitos
 
-[x] Node.js instalado em sua máquina.
+[ x ] Node.js instalado em sua máquina.
 
 Passo a passo para incluir informações na API: 
 1. Baixar e instalar o Node.js
